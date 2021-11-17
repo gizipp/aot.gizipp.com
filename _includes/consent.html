@@ -1,0 +1,64 @@
+{%- if site.amp -%}
+  <amp-user-notification layout="nodisplay" id="amp-user-notification1" >
+    Situs ini menggunakan cookie untuk mempersonalisasi konten.
+    <a href="{{ site.baseurl }}/privacy-policy#cookie">Pelajari lebih lanjut.</a>
+    <button on="tap:amp-user-notification1.dismiss">Saya setuju</button>
+  </amp-user-notification>
+{%- else -%}
+  <div id="cookie-banner" class="cookie-banner" style="display:none;">
+    <p>
+      Situs ini menggunakan cookie untuk mempersonalisasi konten.
+      <a href="{{ site.baseurl }}/privacy-policy#cookie">Pelajari lebih lanjut.</a>
+      <button onclick="clickBanner();">Setuju</button>
+    </p>
+  </div>
+
+  <style media="screen">
+    .cookie-banner {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      padding: 5px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: aliceblue;
+      border-top: 1px solid grey;
+      flex-wrap: wrap;
+      word-break: break-word;
+    }
+
+    button {
+      background-color: royalblue;
+      color: white;
+      float: right;
+      margin-right: 30px;
+      font-size: 14px;
+    }
+
+    button:hover {
+      color: white;
+    }
+
+  </style>
+
+  <script type="text/javascript">
+    var banner = document.getElementById("cookie-banner");
+    var shown = localStorage.getItem("cookieConsent-{{ site.url }}");
+
+    window.onload = onLoad();
+
+    function onLoad(){
+      setTimeout(function(){
+        if(shown != "agree"){
+         banner.style.display = "block";
+        }
+      }, 2000);
+    }
+
+    function clickBanner(){
+      localStorage.setItem("cookieConsent-{{ site.url }}","agree");
+      banner.style.display = "none";
+    }
+  </script>
+{%- endif -%}

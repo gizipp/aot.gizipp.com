@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<main class="content" role="main">
+  <article class="post">
+    <div class="post-meta">
+      <h1 class="post-title">{{ page.title }}</h1>
+      Dipublikasikan <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d %b %Y" }}</time>
+      {% if page.last_modified_at %}
+      | Terakhir Disunting <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%d %b %Y" }}</time>
+      {% endif %}
+    </div>
+    <section class="post-content">
+      <a name="topofpage"></a>
+      {{content}}
+    </section>
+  </article>
+</main>
+
+{%- include footer.html -%}

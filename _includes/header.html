@@ -1,0 +1,16 @@
+<header class="site-header">
+  <a href="{{ site.baseurl }}/" class="logo">
+    <span class="logo">
+      {%- if site.amp -%}
+        <amp-img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" alt="GIZ! AOT" />
+      {%- else -%}
+        <img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" alt="GIZ! AOT" />
+      {%- endif -%}
+    </span>
+  </a>
+  <div class="page-links">
+    <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+    • <a class="page-link" href="/about">About</a>
+    • <a class="page-link" href="/sitemap">Sitemap</a>
+  </div>
+</header>

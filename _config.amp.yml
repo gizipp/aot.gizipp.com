@@ -9,7 +9,7 @@ bio: >
   Mom
 author_image: "/assets/images/author.jpg"
 url: 'https://aot.gizipp.com' # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/amp" # the subpath of your site, e.g. /blog
 permalink: /:title
 paginate:	999 # The number of posts to show per page on your homepage
 
@@ -39,3 +39,6 @@ include:
 exclude:
   - LICENSE
   - README.md
+
+amp: true
+destination: _site/amp

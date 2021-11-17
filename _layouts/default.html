@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    {% include head.html %}
-  </head>
+{%- if site.amp -%}
+<html ⚡ lang="id">
+{%- else -%}
+<html lang="id">
+{%- endif -%}
+  {%- include head.html -%}
   <body>
-    <h1>Attack on Titan</h1>
-    {% include menu.html %}
+    {%- include header.html -%}
 
     {{ content }}
+
+    {%- if jekyll.environment == "production" -%}
+      {%- if site.amp -%}
+        {%- include custom-js-amp.html -%}
+      {%- else -%}
+        {%- include custom-js.html -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- include consent.html -%}
   </body>
 </html>
