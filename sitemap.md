@@ -6,7 +6,7 @@ permalink: /sitemap/
 
 <amp-img width="600" height="300" layout="responsive" src="/assets/posts/ibu-dan-bayi.jpg" alt="Tentang Ibu dan Anak "></amp-img>
 
-Sitemap atau Peta Situs informasi Ibu dan Anak, seputar mengajari anak membaca dan bermain, menata kamar atau tips lainnya.
+Sitemap atau Peta Situs Bukan tempat baca manga attack on titan dan nonton online gratis. Hanya seru-seruan saja. :)
 
 ### Artikel
 
