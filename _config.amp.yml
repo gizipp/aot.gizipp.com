@@ -39,6 +39,7 @@ include:
 exclude:
   - LICENSE
   - README.md
+  - ideas
 
 amp: true
 destination: _site/amp
