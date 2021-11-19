@@ -2,8 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/gizipp-kredit.jpg
+image: /assets/images/gizipp-aot.webp
 sitemap: true
+date: 2021-11-13
+last_modified_at: 2021-11-19
 ---
 
 {% include img.html %}

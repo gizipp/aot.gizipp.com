@@ -14,7 +14,7 @@ permalink: /:title
 paginate:	999 # The number of posts to show per page on your homepage
 
 # Google Analytics
-analytics_id: "G-X6CWGG6YV6"
+analytics_id:
 
 # Build settings
 markdown: kramdown
