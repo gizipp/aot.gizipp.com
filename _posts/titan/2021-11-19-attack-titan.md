@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Apa itu Attack Titan? Selalu Maju Menyerang! ⚔️😤"
-description: "Menjawab kapan attack on titan season 4 part 2 alias final season bagian terakhir, yaitu 9 Januari 2022. Shinzou wo Sasageyo! ⚔️"
+title: "Apa itu Attack Titan? Selalu Menyerang Maju! ⚔️😤"
+description: "Menjawab apa itu attack titan (bukan attack on titan) atau singenki no kyojin sebenarnya! Titan yang selalu menyerang maju! ⚔️😤"
 image: /assets/posts/final-season-4-part-2-release-poster.jpeg
-last_modified_at: 2021-11-19
+last_modified_at: 2021-11-29
 ---
 
 Menjawab apa itu attack titan (bukan attack on titan) atau singenki no kyojin sebenarnya! Titan yang selalu menyerang maju! ⚔️😤
@@ -13,3 +13,27 @@ Menjawab apa itu attack titan (bukan attack on titan) atau singenki no kyojin se
 ## Perihal Attack on Titan dan Attack Titan!
 
 Ketika judul manga ini 'Singenki no Kyojin' menjadi serial, terjemahan yang cocok kala itu adalah 'Attack on Titan' yang secara arti adalah 'serangan titan' sesuai tema dari Attack on Titan season 1
+
+Arti Singenki No Kyojin sendiri bisa jadi Attack on Titan sekaligus Attack Titan. Apa bedanya?
+
+### Arti Singenki No Kyojin ke Attack on Titan - Serangan Titan!
+
+Nama serial ini, lebih merujuk ke '*serangan titan*' atau '*serangan ke titan*'.
+
+Namun dipertengahan akhir cerita, bisa jadi '*titan penyerang*'
+
+### Arti Singenki No Kyojin ke Attack Titan -  Titan Penyerang!
+
+Nama salah satu titan dari 9 titan, yaitu '*titan penyerang*' alias **Titan yang selalu maju menyerang!**
+
+## Eren Si Selalu Maju Menyerang!
+
+Jujur, Eren bukanlah karakter favorit saya. Kadang lebih sering bikin kesel, sebab cengeng, pemarah, emosian, dan berpikir pendek.
+
+Tapi pengembangan karakternya justru termasuk yang paling kompleks dan menarik disimak. Salah satu kutipan paling konsisten dan kuat menggambarkan karakter Eren adalah...
+
+> ”If you win, you live. If you lose, you die. If you don’t fight, you can’t win!” - Eren Jeager
+
+Banyak yang bilang, sebenarnya Eren sendirilah yang membentuk Attack Titan, termasuk pewaris Attack Titan sebelumnya.
+
+Bahkan  bisa dibilang, Eren bukanlah pewaris Attack Titan, melainkan Eren yang membentuk sifat Attack Titan, yaitu selalu maju! Fight! Fight!
