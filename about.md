@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: 'Tentang situs ini sama sekali bukan tempat baca manga attack on titan dan nonton online gratis. Hanya seru-seruan saja. :)'
 permalink: /about/
 image: /assets/images/gizipp-aot.webp
 sitemap: true
