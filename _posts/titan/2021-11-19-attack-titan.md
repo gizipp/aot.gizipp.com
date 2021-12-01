@@ -3,18 +3,20 @@ layout: post
 title: "Apa itu Attack Titan? Selalu Menyerang Maju! ⚔️😤"
 description: "Menjawab apa itu attack titan (bukan attack on titan) atau singenki no kyojin sebenarnya! Titan yang selalu menyerang maju! ⚔️😤"
 image: /assets/posts/final-season-4-part-2-release-poster.jpeg
-last_modified_at: 2021-11-29
+last_modified_at: 2021-11-30
 ---
 
-Menjawab apa itu attack titan (bukan attack on titan) atau singenki no kyojin sebenarnya! Titan yang selalu menyerang maju! ⚔️😤
+Menjawab apa itu attack titan (bukan attack on titan atau singenki no kyojin) sebenarnya! Titan yang selalu menyerang maju! ⚔️😤
 
 {% include img.html %}
 
 ## Perihal Attack on Titan dan Attack Titan!
 
-Ketika judul manga ini 'Singenki no Kyojin' menjadi serial, terjemahan yang cocok kala itu adalah 'Attack on Titan' yang secara arti adalah 'serangan titan' sesuai tema dari Attack on Titan season 1
+Ketika judul manga ini **'Singenki no Kyojin'** menjadi serial, terjemahan yang cocok kala itu adalah **'Attack on Titan'** yang secara arti adalah *'serangan titan'* sesuai tema dari Attack on Titan Season 1
 
-Arti Singenki No Kyojin sendiri bisa jadi Attack on Titan sekaligus Attack Titan. Apa bedanya?
+Namun ketika akhir dari Attack on Titan Season 3 Part 2 berakhir, dan frasa 'Singenki no Kyojin' keluar dalam cerita, maknanya bisa juga berarti **Attack Titan**
+
+Arti Singenki No Kyojin jadi Attack on Titan sekaligus Attack Titan. Apa bedanya?
 
 ### Arti Singenki No Kyojin ke Attack on Titan - Serangan Titan!
 
